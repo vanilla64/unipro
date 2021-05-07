@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/unipro/static/css/main.d81345c1.chunk.css",
+    "main.js": "/unipro/static/js/main.454da900.chunk.js",
+    "main.js.map": "/unipro/static/js/main.454da900.chunk.js.map",
+    "runtime-main.js": "/unipro/static/js/runtime-main.4eb75ad4.js",
+    "runtime-main.js.map": "/unipro/static/js/runtime-main.4eb75ad4.js.map",
+    "static/js/2.fd3e02c2.chunk.js": "/unipro/static/js/2.fd3e02c2.chunk.js",
+    "static/js/2.fd3e02c2.chunk.js.map": "/unipro/static/js/2.fd3e02c2.chunk.js.map",
+    "static/js/3.e4dd7253.chunk.js": "/unipro/static/js/3.e4dd7253.chunk.js",
+    "static/js/3.e4dd7253.chunk.js.map": "/unipro/static/js/3.e4dd7253.chunk.js.map",
+    "index.html": "/unipro/index.html",
+    "static/css/main.d81345c1.chunk.css.map": "/unipro/static/css/main.d81345c1.chunk.css.map",
+    "static/js/2.fd3e02c2.chunk.js.LICENSE.txt": "/unipro/static/js/2.fd3e02c2.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/unipro/static/media/Roboto-Regular.a2580627.woff2",
+    "static/media/card-img.15582a9d.png": "/unipro/static/media/card-img.15582a9d.png",
+    "static/media/MainCard.sass": "/unipro/static/media/main-img.4d098c42.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4eb75ad4.js",
+    "static/js/2.fd3e02c2.chunk.js",
+    "static/css/main.d81345c1.chunk.css",
+    "static/js/main.454da900.chunk.js"
+  ]
+}
