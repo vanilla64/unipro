@@ -1,0 +1,16 @@
+.main {
+  width: 100%;
+  margin: 0 auto;
+}
+@media screen and (max-width: 768px) {
+  .main {
+    width: 95.8%;
+  }
+}
+@media screen and (max-width: 414px) {
+  .main {
+    width: 100%;
+  }
+}
+
+/*# sourceMappingURL=Main.css.map */

@@ -1,0 +1,9 @@
+@import url('../src/vendor/normalize.css');
+@import url('../src/fonts/fonts.css');
+
+.root {
+  /*margin: 0 auto;*/
+  font-family: 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

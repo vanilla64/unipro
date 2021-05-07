@@ -1,0 +1,39 @@
+.main-card {
+  height: 319px;
+  background-image: url("../../images/main-img.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #0078DC;
+  grid-column: 1/5;
+  position: relative;
+}
+@media screen and (max-width: 414px) {
+  .main-card {
+    height: 598px;
+    overflow: hidden;
+  }
+}
+.main-card:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(253, 255, 140, 0.49);
+}
+.main-card__column {
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 100%;
+  width: 255px;
+  background: #0078DC;
+}
+@media screen and (max-width: 414px) {
+  .main-card__column {
+    display: none;
+  }
+}
+
+/*# sourceMappingURL=MainCard.css.map */

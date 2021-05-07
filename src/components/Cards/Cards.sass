@@ -1,0 +1,22 @@
+.cards
+  width: 100%
+  margin: 0 auto
+  padding: 0
+  list-style-type: none
+  display: grid
+  grid-template-columns: repeat(5, 1fr)
+  grid-column-gap: 15px
+  grid-row-gap: 25px
+  @media screen and (max-width: 768px)
+    grid-template-columns: repeat(1, 1fr)
+  @media screen and (max-width: 414px)
+    width: 95.8%
+
+  &_type_main
+    width: 100%
+    margin: 0 0 25px
+    @media screen and (max-width: 768px)
+      grid-column-gap: 0
+      grid-template-columns: repeat(5, 1fr)
+    @media screen and (max-width: 414px)
+      grid-template-columns: repeat(1, 1fr)

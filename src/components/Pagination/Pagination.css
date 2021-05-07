@@ -1,0 +1,22 @@
+.pagination {
+  margin: 0 auto;
+  padding: 25px 0;
+  width: 95.8%;
+}
+.pagination__wrapper {
+  height: 44px;
+  display: flex;
+  justify-content: space-between;
+}
+.pagination__pages {
+  width: calc(100% - 64px);
+  display: flex;
+  justify-content: space-between;
+}
+.pagination__btn, .pagination__counter {
+  width: 44px;
+  height: 44px;
+  background: #C4C4C4;
+}
+
+/*# sourceMappingURL=Pagination.css.map */

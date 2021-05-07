@@ -1,0 +1,17 @@
+.footer {
+  margin: 0 auto;
+  padding: 60px 0 41px;
+  width: 100%;
+}
+@media screen and (max-width: 768px) {
+  .footer {
+    width: 100%;
+    padding: 0 0 41px;
+  }
+}
+.footer__wrapper {
+  background: #0078DC;
+  height: 330px;
+}
+
+/*# sourceMappingURL=footer.css.map */
