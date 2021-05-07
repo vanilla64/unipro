@@ -1,7 +1,12 @@
 .pagination
   margin: 0 auto
   padding: 25px 0
-  width: 95.8%
+  width: 100%
+  display: none
+  @media screen and (max-width: 768px)
+    display: block
+  @media screen and (max-width: 414px)
+    width: 95.8%
   &__wrapper
     height: 44px
     display: flex
